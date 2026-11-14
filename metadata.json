@@ -1,0 +1,6 @@
+{
+  "name": "Off-World Relics",
+  "description": "Interactive story-driven educational atlas and hardware simulation lab exploring NASA spacecraft, rovers, and scientific instruments left across the Moon, Mars, and deep space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
